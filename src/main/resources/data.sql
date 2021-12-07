@@ -1,0 +1,1 @@
+create table if not exists playlist(id bigint auto_increment primary key)
